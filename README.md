@@ -1,9 +1,10 @@
 # ChatGPT AI Chatbot App
 
-<img src = "ChatGPT.jpeg">
+<img src = "ChatGPT.jpeg"
 
 A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
-### Show some :heart: and star the repo.
+
+## Show some :heart: and star the repo
 
 ## Features
 
@@ -31,4 +32,4 @@ The chatbot can be further customized to fit your use-case by modifying the code
 - OpenAI - <https://openai.com>
 - Flutter - <https://flutter.dev/>
 
-Please open an issues on the repository if you find any bugs or if you would like to contribute. 
+Please open an issues on the repository if you find any bugs or if you would like to contribute.
